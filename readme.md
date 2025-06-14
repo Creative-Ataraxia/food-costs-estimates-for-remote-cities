@@ -122,7 +122,7 @@ Setting up `IAM` permissions across a distributed serverless stack was a good pr
 * Use least-privilege best practices without blocking access to critical services such as `S3` writes or `Glue` job triggers.
 * Debug permission errors using CloudWatch logs and the `IAM` policy simulator.
 
-### 🌍 Geospatial Visualization Limits in QuickSight
+### Geospatial Visualization Limits in QuickSight
 
 `QuickSight`’s geospatial support is limited compared to `Looker` or `Power BI`:
 
@@ -141,4 +141,4 @@ Setting up `IAM` permissions across a distributed serverless stack was a good pr
 ## 8. About Me / Contact
 
 * [LinkedIn](https://www.linkedin.com/in/royma/)
-* [Email](mailto:roy.ma9@gmail.com)
+* [roy.ma9@gmail.com](mailto:roy.ma9@gmail.com)
